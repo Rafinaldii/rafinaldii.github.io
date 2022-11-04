@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 3.5rem;
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+#akademik {
+  background-color: #e2edff;
+}
+
+.titik {
+  color: grey;
+}
+
+.col-lg-3 {
+  text-align: start;
+}
+
+#akademik {
+  padding-bottom: 8rem;
+}
+
+.visible {
+  visibility: visible !important;
+}
+.invisible {
+  visibility: hidden !important;
+}
